@@ -1,0 +1,17 @@
+var names = "David";
+var age = 30;
+var active = true;
+var hobbies = ["Reading", "Traveling", "Cooking"];
+var varNull = null;
+var varUndefined = undefined;
+var notSure = "This can be any type";
+var unionType = "This can be a string or a number";
+console.log("Name:", typeof (names));
+console.log("Age:", typeof (age));
+console.log("Active:", typeof (active));
+console.log("Hobbies:", typeof (hobbies));
+console.log("varNull:", typeof (varNull));
+console.log("varUndefined:", typeof (varUndefined));
+console.log("notSure:", typeof (notSure));
+console.log("unionType:", typeof (unionType));
+console.log("Hello World!");
