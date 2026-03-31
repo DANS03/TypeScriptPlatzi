@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "../public/scripts", //The folder where we want the compile code to be in.
+    "target": "ES6", //The version of JavaScript we want to compile to.
+    "module": "commonJS", //The module system we want to use.
+    "strict": true, //Enable all strict type-checking options.
+  }
+
+}
